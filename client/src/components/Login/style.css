@@ -1,0 +1,23 @@
+.form{
+    background-color: #ffffff;
+    display: inline-block;
+    padding: 25px 50px;
+    text-align: left;
+    min-width: 500px;
+    border: 1px solid black;
+}
+
+.form input{
+    margin-bottom: 15px;
+    line-height: 30px;
+}
+
+label{
+    font-size:25px;
+    font-weight: bold;
+}
+.resultMessage{
+    background-color: orange;
+    padding: 10px 20px;
+
+}

@@ -1,0 +1,21 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+}
+.header p{
+    margin: 0;
+}
+.header i{
+    margin: 0 5px;
+    color: black;
+}
+.header i:hover{
+    color: #5f9ea0;
+}
+.header i:active{
+    color: tomato;
+}
+.header i:visited{
+    color:red;
+}

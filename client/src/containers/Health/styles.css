@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+}
+.mainBlogContainer{
+    width: 70%;
+}
+.categoryContainer{
+    padding-top: 5px;
+}
+.secondPost{
+    width: 48%;
+}
+.secondRow{
+    display: flex;
+    justify-content: space-between;
+}
+.thirdPost{
+    width: 48%;
+}

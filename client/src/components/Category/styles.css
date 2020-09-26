@@ -1,0 +1,10 @@
+.blogCategory{
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    padding: 0 5px;
+}
+.blogCategoryContainer{
+    display: block;
+    border-bottom: 2px solid black;
+}

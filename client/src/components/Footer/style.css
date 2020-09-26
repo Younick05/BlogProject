@@ -1,0 +1,20 @@
+.SocialMediaLogo{
+    font-size: 4vw;
+}
+.footerContainer{
+    display: flex;
+    justify-content: space-between;
+}
+.footerLogo{
+    width: 25%;
+    padding: 4%;
+}
+.footerLogo img{
+    width: 100%;
+}
+.SocialMediaLogo{
+    padding: 4%;
+}
+.SocialMediaLogo a{
+    padding: 0 1vw;
+}

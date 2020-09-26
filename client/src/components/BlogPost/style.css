@@ -1,0 +1,52 @@
+.blogpostContainer{
+    width: 100%;
+}
+.blogHeader{
+    padding: 5px;
+}
+.postTitle{
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    font-size: 30px;
+    margin:0;
+    font-weight: 400;
+}
+.postedBy{
+    font-size: 12px;
+    font-weight: 1;
+    letter-spacing: 1px;
+    color: rgb(175, 177, 177);
+}
+.postimageContainer{
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+}
+.postimageContainer img{
+    width: 100%;
+    height: 100%;
+    padding: 10px 0;
+}
+.redirectLink{
+    margin: 0;
+}
+.redirectLink li{
+    list-style: none;
+    display: inline-block;
+    font-size: 14px;
+    margin-left: 5px;
+    border: 1px solid black;
+    border-radius: 7px;
+}
+.redirectLink li a{
+    text-decoration: none;
+    padding: 10px;
+}
+.readMore a{
+    text-decoration: none;
+    margin: 0 10px;
+}
+.contentContainer{
+    padding: 0 5px;
+    margin: 0;
+}
